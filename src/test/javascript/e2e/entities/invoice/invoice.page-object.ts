@@ -32,6 +32,7 @@ export class InvoiceUpdatePage {
   paymentMethodSelect = element(by.id('field_paymentMethod'));
   paymentDateInput = element(by.id('field_paymentDate'));
   paymentAmountInput = element(by.id('field_paymentAmount'));
+  codeInput = element(by.id('field_code'));
   orderSelect = element(by.id('field_order'));
 
   async getPageTitle() {
@@ -98,6 +99,14 @@ export class InvoiceUpdatePage {
 
   async getPaymentAmountInput() {
     return await this.paymentAmountInput.getAttribute('value');
+  }
+
+  async setCodeInput(code) {
+    await this.codeInput.sendKeys(code);
+  }
+
+  async getCodeInput() {
+    return await this.codeInput.getAttribute('value');
   }
 
   async orderSelectLastOption() {
