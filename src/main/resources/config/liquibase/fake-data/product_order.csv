@@ -1,11 +1,11 @@
-id;placed_date;status;code
-1;2019-11-20T19:34:41;PENDING;EXE payment
-2;2019-11-21T06:26:53;PENDING;Data North Dakota
-3;2019-11-21T01:02:32;PENDING;Web revolutionize Branding
-4;2019-11-20T12:37:49;COMPLETED;Fantastic
-5;2019-11-21T09:55:16;CANCELLED;Handcrafted Plastic Shirt quantifying
-6;2019-11-21T09:47:59;COMPLETED;Rupiah Personal Loan Account HTTP
-7;2019-11-20T16:43:01;COMPLETED;quantify multi-byte
-8;2019-11-20T10:35:11;PENDING;Infrastructure SSL bandwidth
-9;2019-11-20T16:20:15;PENDING;navigating encoding
-10;2019-11-20T12:51:58;COMPLETED;Internal Fantastic time-frame
+id;placed_date;status;code;customer_id
+1;2019-11-21T16:40:39;COMPLETED;Table quantify;1
+2;2019-11-21T12:24:29;PENDING;quantify;2
+3;2019-11-21T23:35:34;CANCELLED;compress Fantastic Global;3
+4;2019-11-21T19:38:46;CANCELLED;streamline;4
+5;2019-11-22T07:30:43;CANCELLED;Applications Missouri deposit;5
+6;2019-11-21T21:00:34;COMPLETED;Danish Krone parse;6
+7;2019-11-21T12:46:28;COMPLETED;Austria mindshare EXE;7
+8;2019-11-21T23:21:00;PENDING;Refined Practical Algerian Dinar;8
+9;2019-11-22T06:01:32;COMPLETED;Intelligent Planner;9
+10;2019-11-21T22:47:23;CANCELLED;navigate repurpose;10
